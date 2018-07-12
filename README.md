@@ -14,7 +14,10 @@ https://appear.in/java-kueche-mokumoku
 
 # 開催履歴
 - 第1回 [2018-07-05](https://github.com/JavaKueche/great-okinawa/tree/master/2018-07-07)
-- 第2回 [2018-07-12](https://github.com/JavaKueche/great-okinawa/tree/master/2018-07-07)
+  - すごい沖縄の取り決め
+- 第2回 [2018-07-12](https://github.com/JavaKueche/great-okinawa/tree/master/2018-07-12)
+  - 参加者4人 :)
+  - Azure書籍読, Python学習/統計学本, Firebase
 
 # 次回開催日
 隔週に1回（木曜日 19:30 - 22:00）開催予定
