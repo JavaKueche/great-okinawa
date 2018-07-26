@@ -20,5 +20,6 @@ https://appear.in/java-kueche-mokumoku
   - Azure書籍読, Python学習/統計学本, Firebase
 
 # 次回開催日
-隔週に1回（木曜日 19:30 - 22:00）開催予定
-- 2018/07/19(木)　19:30 - 22:00
+週に1回（木曜日 19:30 - 22:00）開催予定
+- 2018/08/01(木)　19:30 - 22:00
+  https://java-kuche.doorkeeper.jp/events/78025
