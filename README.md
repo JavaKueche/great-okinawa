@@ -21,5 +21,5 @@ https://appear.in/java-kueche-mokumoku
 
 # 次回開催日
 週に1回（木曜日 19:30 - 22:00）開催予定
-- 2018/08/01(木)　19:30 - 22:00
+- 2018/08/02(木)　19:30 - 22:00
   https://java-kuche.doorkeeper.jp/events/78025
