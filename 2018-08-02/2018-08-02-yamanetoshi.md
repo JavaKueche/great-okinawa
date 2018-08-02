@@ -50,3 +50,11 @@ Hugo を使用しております。不具合としては、一覧画面と詳細
 - https://qiita.com/uni-3/items/201aaa2708260cc790b8
 
 おそらく、ハマッてるとこで timeup になるはず。
+
+### 原因
+
+これだった模様。
+
+- [Upload local files using Google Colab](https://stackoverflow.com/questions/48420759/upload-local-files-using-google-colba)
+
+upload できましたが二章は来週? になるのかどうか。
