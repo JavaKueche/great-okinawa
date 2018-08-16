@@ -43,6 +43,27 @@
 - [Get Started on NEM Tutorial](https://docs.nem.io/en/tutorials)
 - [NEM Technology](https://nem.io/technology/)
 - [Nem Enterprise Use Case](https://nem.io/enterprise/use-cases/)
+- [How to start a nem project](https://medium.com/@aleixmorgadas/how-to-start-a-nem-project-a622fa67e7be)
+- [Beginners Guide to NEM](https://blog.nem.io/the-beginners-guide-to-nem/)
+
+# NEM Enterprise USE CASE
+## Financial
+### Financial Payment
+通過の世界中での即時支払いや交換に使える。
+NEMの利点のひとつはPublic chainとPrivate chainがシームレスにつながるのでNemでつながった別々のチェーン同士での交換が容易
+
+### 独自仮想通貨の発行
+
+### Mobile Payment
+
+
+## Business Management
+
+
+## Secure Records
+
+## Decentralized Organizations
+
 
 ## わからない言葉
 - hearvesting(ハーベスティング)
