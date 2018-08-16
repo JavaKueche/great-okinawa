@@ -31,9 +31,19 @@
 ## NEM Smart Asset System
 アプリケーションの独自の要求に答えられるようにすべてカスタマイズ可能になっている。
 
+## Platform Architecture
+
+
 # NEMの学習リソース
-[NEMの教科書](https://nemmanual.net/)
-     
+- [NEMの教科書](https://nemmanual.net/)
+- [Developer full documentation](https://docs.nem.io/en)
+- [NEM Developer Beginner's Guide Tutorials](https://docs.nem.io/en/nem-sdk)
+- [Namespace And Mosaic Tutorial](https://docs.nem.io/en/gen-info/namespaces)
+- [Nem Community](https://nem.io/community/)
+- [Get Started on NEM Tutorial](https://docs.nem.io/en/tutorials)
+- [NEM Technology](https://nem.io/technology/)
+- [Nem Enterprise Use Case](https://nem.io/enterprise/use-cases/)
+
 ## わからない言葉
 - hearvesting(ハーベスティング)
 - Vested State
