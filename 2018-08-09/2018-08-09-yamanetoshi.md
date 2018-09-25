@@ -1,17 +1,17 @@
-### [¤ä¤Ş¤Í¤È¤·¤¢¤­](https://twitter.com/yamanetoshi)
+### [ã‚„ã¾ã­ã¨ã—ã‚ã](https://twitter.com/yamanetoshi)
 
-- [º£Æü¤ä¤ë¤³¤È](https://github.com/JavaKueche/great-okinawa/issues/18)
+- [ä»Šæ—¥ã‚„ã‚‹ã“ã¨](https://github.com/JavaKueche/great-okinawa/issues/18)
 
-### Á°²ó¤ÎÂ³¤­
+### å‰å›ã®ç¶šã
 
-°ú¤­Â³¤­¡¢°Ê²¼¤ò»È¤¤¤Ş¤¹¡£Âè»°Éô¤ÎÂèÆó¾Ï¤«¤é
+å¼•ãç¶šãã€ä»¥ä¸‹ã‚’ä½¿ã„ã¾ã™ã€‚ç¬¬ä¸‰éƒ¨ã®ç¬¬äºŒç« ã‹ã‚‰
 
 - https://colab.research.google.com/
 
-### ÂèÆó¾Ï
+### ç¬¬äºŒç« 
 
-¤È¤ê¤¢¤¨¤ººÇ¸å¤Ş¤Ç¤Ï¤Ê¤ó¤È¤«¤Ê¤ê¤Ş¤·¤¿¡£
+ã¨ã‚Šã‚ãˆãšæœ€å¾Œã¾ã§ã¯ãªã‚“ã¨ã‹ãªã‚Šã¾ã—ãŸã€‚
 
 - [https://gist.github.com/yamanetoshi/3cf1d21e874ae74a88a73e816b594164](https://gist.github.com/yamanetoshi/3cf1d21e874ae74a88a73e816b594164)
 
-»ş´Ö¤Ş¤Ç¥Æ¥­¥¹¥È³ÎÇ§¤·¤Ä¤ÄºÆ³ÎÇ§¤·¤Æ¤ß¤Ş¤¹¡£
+æ™‚é–“ã¾ã§ãƒ†ã‚­ã‚¹ãƒˆç¢ºèªã—ã¤ã¤å†ç¢ºèªã—ã¦ã¿ã¾ã™ã€‚
